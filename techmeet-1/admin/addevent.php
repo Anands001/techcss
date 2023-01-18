@@ -147,7 +147,22 @@ border-bottom-right-radius: 15px;
               <div class="col-lg-6">
                 <div class="p-5">
                   <h3 class="fw-normal mb-5" style="color: #4835d4;">Add Event</h3>
+                  <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                  </div>
 
+                  <!-- <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+                    <div class="toast-header">
+                      <img src="..." class="rounded me-2" alt="...">
+                      <strong class="me-auto">Bootstrap</strong>
+                      <small class="text-muted">11 mins ago</small>
+                      <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+                    </div>
+                    <div class="toast-body">
+                      Hello, world! This is a toast message.
+                    </div>
+                  </div> -->
                   
                   <div class="row">
                     <div class="col-md-6 mb-4 pb-2">

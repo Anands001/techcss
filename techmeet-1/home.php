@@ -26,7 +26,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><!--<img src="assets/img/navbar-logo.svg" alt="..." />-->  ICAPO</a>
+                <a class="navbar-brand" href="#page-top"><!--<img src="assets/img/navbar-logo.svg" alt="..." />-->  ICAPO 2023</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -328,6 +328,16 @@ Thanking You</p></marquee>
                                  <div class="timeline-body"><p class="text-muted">'.$text.'</p></div>
                              </div>
                              </li>
+                             <li class="timeline-inverted">
+                                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                                    <div class="timeline-panel">
+                                        <div class="timeline-heading">
+                                            <h4>March 2011</h4>
+                                            <h4 class="subheading">An Agency is Born</h4>
+                                        </div>
+                                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                    </div>
+                             </li>
                             ';
                          }
                         }
@@ -464,7 +474,7 @@ Thanking You</p></marquee>
             </div>
         </section>
         <!-- Clients-->
-        <div class="py-5">
+        <!-- <div class="py-5">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-3 col-sm-6 my-3">
@@ -481,7 +491,7 @@ Thanking You</p></marquee>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
